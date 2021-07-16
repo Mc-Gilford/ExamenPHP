@@ -1,0 +1,23 @@
+.shadow-box
+{
+    width:100%;
+}
+
+.shadow-box div
+{
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+
+thead
+{
+    background-color: rgba(255, 128, 0, 1);
+    color: white;
+    text-align: center;
+}
+td
+{
+    background-color: rgb(255, 197, 139);
+    color: white;
+    border-color: rgba(255, 128, 0, 1);
+}
